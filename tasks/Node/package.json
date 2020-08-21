@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@types/mocha": "^5.2.7",
-    "@types/ncp": "^2.0.1",
+    "@types/ncp": "^2.0.4",
     "@types/node": "^10.14.14",
     "@types/q": "^1.5.2",
     "ncp": "^2.0.0",
