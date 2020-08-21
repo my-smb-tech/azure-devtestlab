@@ -19,7 +19,7 @@
     "@types/mocha": "^5.2.7",
     "@types/ncp": "^2.0.1",
     "@types/node": "^10.14.14",
-    "@types/q": "^1.5.2",
+    "@types/q": "^1.5.4",
     "ncp": "^2.0.0",
     "react-dev-utils": "^9.0.1",
     "rimraf": "^2.6.3",
