@@ -9,7 +9,7 @@
     "@azure/ms-rest-js": "^2.0.4",
     "@azure/ms-rest-nodeauth": "^2.0.3",
     "@azure/storage-blob": "^10.4.0",
-    "azure-pipelines-task-lib": "^2.8.0",
+    "azure-pipelines-task-lib": "^2.10.1",
     "isomorphic-fetch": "^2.2.1",
     "minimist": "^1.2.3",
     "tough-cookie": "^3.0.1",
