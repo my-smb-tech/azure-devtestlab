@@ -18,7 +18,7 @@
   "devDependencies": {
     "@types/mocha": "^8.2.2",
     "@types/ncp": "^2.0.4",
-    "@types/node": "^15.0.2",
+    "@types/node": "^15.14.0",
     "@types/q": "^1.5.4",
     "ncp": "^2.0.0",
     "react-dev-utils": "^11.0.4",
